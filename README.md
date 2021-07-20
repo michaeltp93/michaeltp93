@@ -19,6 +19,7 @@
 
 <br>
 <br>
+<h2>:zap: GitHub Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaeltp93&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Michael Trejos"/>
 
 <h2> :zap: Most used languages ❤️</h2>
