@@ -7,9 +7,10 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/michaeltp93) [![Profile](https://visitor-badge.glitch.me/badge?page_id=michaeltp93.profileviews-badge)](https://github.com/michaeltp93) [![followers](https://img.shields.io/github/followers/michaeltp93?style=social)](https://github.com/michaeltp93?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/michaeltp93) [![Repos Badge](https://badges.pufler.dev/repos/michaeltp93)](https://github.com/michaeltp93?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/michael-trejos-pulgarin/)
 <br>
 
-<img align="right" alt="GIF" src="./developer-api.gif" width="450" height="290" />
+<img align="right" alt="GIF" src="./developer-api.gif" width="410" height="250" />
 
 <br>
+
 <h3> 🔭 I’m currently learning Typescript, Java and Python.
 
 <h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
